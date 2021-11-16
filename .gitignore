@@ -1,0 +1,5 @@
+.idea
+env/
+venv/
+geckodriver.log
+geckodriver.exe
